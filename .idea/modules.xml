@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GGViewMoreTextview.iml" filepath="$PROJECT_DIR$/GGViewMoreTextview.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/viewmoretextview/viewmoretextview.iml" filepath="$PROJECT_DIR$/viewmoretextview/viewmoretextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewmoretextview.iml" filepath="$PROJECT_DIR$/viewmoretextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewmoretextview-libs/viewmoretextview-libs.iml" filepath="$PROJECT_DIR$/viewmoretextview-libs/viewmoretextview-libs.iml" />
     </modules>
   </component>
 </project>

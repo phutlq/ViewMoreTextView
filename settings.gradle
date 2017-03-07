@@ -1,1 +1,1 @@
-include ':app', ':viewmoretextview'
+include ':app', ':viewmoretextview-libs'
